@@ -1,0 +1,13 @@
+prefix=/Users/bikashsmac/Desktop/Projects/ML_Project/Adult_Income/env
+exec_prefix=/Users/bikashsmac/Desktop/Projects/ML_Project/Adult_Income/env
+libdir=/Users/bikashsmac/Desktop/Projects/ML_Project/Adult_Income/env/lib
+sharedlibdir=/Users/bikashsmac/Desktop/Projects/ML_Project/Adult_Income/env/lib
+includedir=/Users/bikashsmac/Desktop/Projects/ML_Project/Adult_Income/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
