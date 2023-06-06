@@ -1,0 +1,6 @@
+[2023-06-07 02:47:53,777] root - INFO - Data ingestion started
+[2023-06-07 02:47:53,777] root - INFO - Data reading using pandas library from local system
+[2023-06-07 02:47:53,796] root - INFO - Data reading completed
+[2023-06-07 02:47:53,880] root - INFO - Data splitted into train and test
+[2023-06-07 02:47:53,958] root - INFO - Data ingestion completed!
+[2023-06-07 02:47:53,976] root - INFO - Outlier handling case.
